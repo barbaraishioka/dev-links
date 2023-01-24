@@ -38,7 +38,7 @@ Página com os links dos meus projetos e redes sociais, inspirado nas aulas mini
 
 É possível escolher os temas dark ou light com o botão switch.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://barbaraishioka.github.io/dev-links/)
 
 ## 🔖 Layout
 
